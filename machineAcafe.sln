@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "machineAcafe", "machineAcafe\machineAcafe.csproj", "{9B0306EE-4241-4B9F-9175-C4B4537BEA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMachineACafe", "testMachineACafe\testMachineACafe.csproj", "{80886EEE-71B0-442B-BAAC-248CD3C93167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0306EE-4241-4B9F-9175-C4B4537BEA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0306EE-4241-4B9F-9175-C4B4537BEA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0306EE-4241-4B9F-9175-C4B4537BEA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0306EE-4241-4B9F-9175-C4B4537BEA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80886EEE-71B0-442B-BAAC-248CD3C93167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80886EEE-71B0-442B-BAAC-248CD3C93167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80886EEE-71B0-442B-BAAC-248CD3C93167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80886EEE-71B0-442B-BAAC-248CD3C93167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C4D1DD-701D-46E4-A33D-C4F4F6F66850}
+	EndGlobalSection
+EndGlobal

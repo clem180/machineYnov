@@ -1,0 +1,15 @@
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\bin\Debug\net6.0\machineAcafe.exe
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\bin\Debug\net6.0\machineAcafe.deps.json
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\bin\Debug\net6.0\machineAcafe.runtimeconfig.json
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\bin\Debug\net6.0\machineAcafe.dll
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\bin\Debug\net6.0\machineAcafe.pdb
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.csproj.AssemblyReference.cache
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.AssemblyInfoInputs.cache
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.AssemblyInfo.cs
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.csproj.CoreCompileInputs.cache
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.dll
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\refint\machineAcafe.dll
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.pdb
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\machineAcafe.genruntimeconfig.cache
+C:\Users\clément\source\repos\machineAcafe\machineAcafe\obj\Debug\net6.0\ref\machineAcafe.dll
